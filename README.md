@@ -2,7 +2,7 @@
 - 👀 Yang mau recode gass ae ...
 - 🌱 Masih pemula ngab ...
 - 💞️ bit.ly/gcMikhsanN
-- 📫 yang mau gc silahkenn. Jan bully ngab masih pemula 🗿🏃🏻‍♂️
+- 📫 yang mau join gc silahkenn. Jan bully ngab masih pemula 🗿🏃🏻‍♂️
 
 <!---
 Ikhsan160605/Ikhsan160605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
