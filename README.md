@@ -1,10 +1,5 @@
-- 👋 yoi Welcome in my github@Ikhsan160605
-- 👀 Yang mau recode gass ae ...
-- 🌱 Masih pemula ngab ...
-- 💞️ bit.ly/gcMikhsanN
-- 📫 yang mau join gc silahkenn. Jan bully ngab masih pemula 🗿🏃🏻‍♂️
+- Welcome to my profile github
+- I'm a newbie front-end devp
+- My Goals Full-stack Developer
+- I can help anyone with OSINT techniques, but my capabilities are limited due to the database I have.
 
-<!---
-Ikhsan160605/Ikhsan160605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
